@@ -1,4 +1,4 @@
-package hankp.dev.little_functions
+package hankp.dev.little_functions.downloader
 
 /**
  * @author huypham on 1/22/23

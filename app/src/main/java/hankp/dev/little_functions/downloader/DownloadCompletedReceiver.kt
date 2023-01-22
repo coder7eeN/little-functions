@@ -1,4 +1,4 @@
-package hankp.dev.little_functions
+package hankp.dev.little_functions.downloader
 
 import android.app.DownloadManager
 import android.content.BroadcastReceiver
